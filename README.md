@@ -51,6 +51,7 @@ OI各界人士的表现:
  CE=Compile Easily=轻松通过编译 
  
  RE=Run Excellently=完美运行 
+ 
  AU=All Unaccepted=全都不正确 
  
  OLE=Output Limit Enough=输出限制足够 
