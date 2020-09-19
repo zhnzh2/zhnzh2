@@ -1,8 +1,7 @@
 ### Hi, welcome to come there 👋
 
 # 一名蒟蒻（不需要%%%）
-
-![1](https://ipcounter.ihcr.top/?mode=2&mail=1634790209@qq.com&str=Join%20Us,%20We%20Need%20You.&qq=1634790209&gh=zhnzh&lg=zhnzh)
+![1](https://ipcounter.ihcr.top/?mode=2&mail=1634790209@qq.com&str=Join%20Us,%20We%20Need%20You.&qq=1634790209&gh=zhnzh2&lg=zhnzh)
 ![1](https://luogu.vercel.app/api?id=223767&dark_mode=true&card_width=600)
 
 ---
