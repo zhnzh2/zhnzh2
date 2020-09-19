@@ -40,17 +40,24 @@ OI各界人士的表现:
 我：“md这个该死的c++怎么还没装好。”
 
 ---
-$$ AC=Answer \ Coarse=粗劣的答案 $$
-$$ WA=Wonderful \ Answer=好答案 $$
-$$ TLE=Time Limit \ Enough=时间充裕 $$
-$$ MLE=Memory Limit \ Enough=内存充裕 $$
-$$ CE=Compile \ Easily=轻松通过编译 $$
-$$ RE=Run \ Excellently=完美运行 $$
-$$ AU=All \ Unaccepted=全都不正确 $$
-$$ OLE=Output \ Limit \ Enough=输出限制足够。$$
-$$ UKE=User \ Kind \ Enough=用户足够善良。$$
-
-$$ PC=Perfect\  Compile=完美的编译 $$
+ AC=Answer Coarse=粗劣的答案
+ 
+ WA=Wonderful Answer=好答案 
+ 
+ TLE=Time Limit Enough=时间充裕 
+ 
+ MLE=Memory Limit Enough=内存充裕 
+ 
+ CE=Compile Easily=轻松通过编译 
+ 
+ RE=Run Excellently=完美运行 
+ AU=All Unaccepted=全都不正确 
+ 
+ OLE=Output Limit Enough=输出限制足够 
+ 
+ UKE=User Kind Enough=用户足够善良 
+ 
+ PC=Perfect Compile=完美的编译 
 
 ---
 
