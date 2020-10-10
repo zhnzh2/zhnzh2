@@ -6,6 +6,8 @@
 
 ![1](https://luogu.vercel.app/api?id=223767&dark_mode=true&card_width=600)
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=zhnzh2)
+
 ---
 ```
 暴力出奇迹，骗分过样例。
